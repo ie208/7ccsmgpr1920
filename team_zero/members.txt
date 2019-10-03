@@ -1,4 +1,5 @@
 Esener, Iris 	iris.esener@kcl.ac.uk 	Current	Advanced Software Engineering
+Darwish, Emad Mahmoud Nagui 	emad.darwish@kcl.ac.uk 	Current	Advanced Computing
 Li, Zhiheng 	zhiheng.li@kcl.ac.uk 	Current	Advanced Computing
 Zulean, Tiberiu Iustin 	tiberiu.zulean@kcl.ac.uk 	Current	Advanced Software Engineering
 Li, Zhuoling 	zhuoling.li@kcl.ac.uk 	Current	Advanced Computing
